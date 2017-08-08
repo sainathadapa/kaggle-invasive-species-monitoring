@@ -2,4 +2,5 @@
 *.hdf5
 data/
 submission*
-
+*.Rproj
+.Rproj.user
